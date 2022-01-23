@@ -1,5 +1,6 @@
 ## Archived tweets for DannySwain
 ### 
+Note: this user's Twitter account may or may not be compromised. Archive collected for analysis.
 More information: https://github.com/TwitterArchives/DannySwain#readme
 
 The list below includes 319 deleted tweets by
